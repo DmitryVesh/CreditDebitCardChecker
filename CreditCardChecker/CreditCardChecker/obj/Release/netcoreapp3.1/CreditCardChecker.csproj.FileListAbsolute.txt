@@ -1,0 +1,11 @@
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/CreditCardChecker/CreditCardChecker/bin/Release/netcoreapp3.1/CreditCardChecker
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/CreditCardChecker/CreditCardChecker/bin/Release/netcoreapp3.1/CreditCardChecker.deps.json
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/CreditCardChecker/CreditCardChecker/bin/Release/netcoreapp3.1/CreditCardChecker.runtimeconfig.json
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/CreditCardChecker/CreditCardChecker/bin/Release/netcoreapp3.1/CreditCardChecker.runtimeconfig.dev.json
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/CreditCardChecker/CreditCardChecker/bin/Release/netcoreapp3.1/CreditCardChecker.dll
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/CreditCardChecker/CreditCardChecker/bin/Release/netcoreapp3.1/CreditCardChecker.pdb
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/CreditCardChecker/CreditCardChecker/obj/Release/netcoreapp3.1/CreditCardChecker.csprojAssemblyReference.cache
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/CreditCardChecker/CreditCardChecker/obj/Release/netcoreapp3.1/CreditCardChecker.AssemblyInfoInputs.cache
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/CreditCardChecker/CreditCardChecker/obj/Release/netcoreapp3.1/CreditCardChecker.AssemblyInfo.cs
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/CreditCardChecker/CreditCardChecker/obj/Release/netcoreapp3.1/CreditCardChecker.dll
+/Users/dmitry.veshchikov/Desktop/Code/CSharp/Repl.Harder/CreditCardChecker/CreditCardChecker/obj/Release/netcoreapp3.1/CreditCardChecker.pdb
